@@ -19,7 +19,7 @@ The analysis of the school district data will enable the board to make better de
 
 ## Results:
 
-1. The removal of Thomas High School 9th grade student data from the analysis didn't have a drastic affect on the discrict data summary as a whole. Here is the district summary before Thomas High School's 9th grade data was removed:
+1. The removal of Thomas High School 9th grade student data from the analysis did have a small effect on the district data summary. Here is the district summary before Thomas High School's 9th grade data was removed:
 
 ![Previous_district_summary](https://github.com/Zarif601/School_District_Analysis/blob/main/Resources/Previous_district_summary.png)
 
@@ -27,7 +27,7 @@ We can compare the differences by looking at the district summary after the chan
 
 ![New_district_summary](https://github.com/Zarif601/School_District_Analysis/blob/main/Resources/New_district_summary.png)
 
-Here we can see that only the average math score was different by just 0.1 unit of difference.
+Here we can see that except for the 'Average Reading Score,' every other performance value was affected.
 
 2. Looking at the school summary data from before the removal of 9th grade data from Thomas High School and after, we can see some minor differences across all performance scores. Here is the school summary from before:
 
@@ -53,10 +53,17 @@ By comparing with the new data, we can see that only the 9th grade data from Tho
 
 ![New_reading_scores_by_grade](https://github.com/Zarif601/School_District_Analysis/blob/main/Resources/New_reading_scores_by_grade.png)
 
-5. 
+5. Performance scores by school spending didn't change as a whole. The average math and reading scores and the percentages of students who passed remained the same even after removing 9th grade data of Thomas High School. The scores as shown below:
 
-6.
+![Scores_by_school_spending](https://github.com/Zarif601/School_District_Analysis/blob/main/Resources/New_scores_by_school_spending.png)
 
-7. 
+6. Similar to performance scores by school spending, scores grouped by school size were also unchanged from before the removal of data. The removal wasn't significant enough to make a difference in these scores, as shown below:
+
+![Scores_by_size](https://github.com/Zarif601/School_District_Analysis/blob/main/Resources/New_scores_by_school_size.png)
+
+7. Scores of student performance based on school type didn't change as well. It remained the same after removal of 9th grade data from Thomas High School. Here are the scores:
+
+![Scores_by_type](https://github.com/Zarif601/School_District_Analysis/blob/main/Resources/New_scores_by_school_type.png)
 
 ## Summary
+
