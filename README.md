@@ -65,5 +65,13 @@ By comparing with the new data, we can see that only the 9th grade data from Tho
 
 ![Scores_by_type](https://github.com/Zarif601/School_District_Analysis/blob/main/Resources/New_scores_by_school_type.png)
 
+This shows that the overall impact of removing 9th grade data from Thomas High School was very minor for the overall analysis.
+
 ## Summary
 
+The removal of 9th grade student data from Thomas High School impacted four sections of analyses in this project. They are listed below:
+
+1. The overall district averages all across the board were impacted marginally.
+2. The school summary was unaffected except for the sumary statistics for Thomas High School. Even then the differences were minor.
+3. Math scores by grade was unaffected for all other schools except Thomas High School, since their 9th grade data was removed.
+4. Similarly, reading scores by grade was also unaffected for all the schools except Thomas High School.
