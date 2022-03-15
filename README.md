@@ -19,4 +19,44 @@ The analysis of the school district data will enable the board to make better de
 
 ## Results:
 
+1. The removal of Thomas High School 9th grade student data from the analysis didn't have a drastic affect on the discrict data summary as a whole. Here is the district summary before Thomas High School's 9th grade data was removed:
+
+![Previous_district_summary](https://github.com/Zarif601/School_District_Analysis/blob/main/Resources/Previous_district_summary.png)
+
+We can compare the differences by looking at the district summary after the changes as below:
+
+![New_district_summary](https://github.com/Zarif601/School_District_Analysis/blob/main/Resources/New_district_summary.png)
+
+Here we can see that only the average math score was different by just 0.1 unit of difference.
+
+2. Looking at the school summary data from before the removal of 9th grade data from Thomas High School and after, we can see some minor differences across all performance scores. Here is the school summary from before:
+
+![Previous_school_summary](https://github.com/Zarif601/School_District_Analysis/blob/main/Resources/Previous_school_summary.png)
+
+To compare, here is the school summary after the removal of 9th grade data from Thomas High School:
+
+![New_school_summary](https://github.com/Zarif601/School_District_Analysis/blob/main/Resources/New_school_summary.png)
+
+There is only a slight change in the performace values in the new school summary, and only that of Thomas High School. The rest of the data remains unchanged.
+
+3. From the above images we can see that all the performance metrics of Thomas High Schools were affected because of the removal of 9th grade data. This is as expected. However, the changes are not very significant and none of the scores vary by even 1 unit of difference from the previous ones. Also, we can see that the rest of the performance scores from all the other schools remain the same.
+
+4. The math and reading scores by grade data provides a clear idea of how each grade in all the different schools are performing. Here is the math and reading scores by grade data from before 9th grade data from Thomas High School was removed:
+
+![Old_math_scores_by_grade](https://github.com/Zarif601/School_District_Analysis/blob/main/Resources/Old_math_scores_by_grade.png)
+
+![Old_reading_scores_by_grade](https://github.com/Zarif601/School_District_Analysis/blob/main/Resources/Old_reading_scores_by_grade.png)
+
+By comparing with the new data, we can see that only the 9th grade data from Thomas High School has been removed. The rest of the data is unchanged as follows:
+
+![New_math_scores_by_grade](https://github.com/Zarif601/School_District_Analysis/blob/main/Resources/New_math_scores_by_grade.png)
+
+![New_reading_scores_by_grade](https://github.com/Zarif601/School_District_Analysis/blob/main/Resources/New_reading_scores_by_grade.png)
+
+5. 
+
+6.
+
+7. 
+
 ## Summary
